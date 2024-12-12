@@ -1,0 +1,8 @@
+### **Week 1-2: Foundational Skills (Python, SQL)**
+1. **Project: Data Analysis with Python**  
+   - **Objective**: Analyze a dataset (e.g., a Kaggle dataset) using Python libraries (Pandas, NumPy).
+   - **Tasks**:
+     - Clean the dataset by handling missing values and outliers.
+     - Perform basic statistical analysis (mean, median, mode).
+     - Visualize data with Matplotlib/Seaborn.
+     - Write basic SQL queries to analyze the data (if it's in a SQL database).
